@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+Link to Vist: https://touch-typing-81bc84.netlify.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
